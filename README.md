@@ -12,11 +12,4 @@ A responsive YouTube-style front-end layout built using HTML and CSS. This proje
 - HTML5
 - CSS3 (Flexbox & CSS Grid)
 
-## How to View
-1. Clone the repository.
-2. Open `index.html` in your web browser.
-- *Alternatively, view the live site via GitHub Pages [here](link-to-your-github-pages).*
 
-## Future Improvements
-- Add JavaScript for search functionality.
-- Implement a dark/light mode toggle.
