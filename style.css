@@ -335,7 +335,8 @@ main {
 .video-thumbnail-wrapper {
     position: relative;
     width: 100%;
-    height: 260px;
+    height: 240px;
+
     border-radius: 12px;
     
     background-color: var(--bg-secondary);
